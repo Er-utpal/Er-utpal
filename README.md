@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, I'm Utpal Kant
 
-<!--
-**Er-utpal/Er-utpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚁 Senior R&D Engineer working in UAV & Robotics  
+🏆 3× Smart India Hackathon Winner  
+🧠 Passionate about real-world flight systems & embedded control  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Expertise
+- PX4 & ArduPilot (tuning, parameters, logic)
+- ROS2, MAVROS, SLAM
+- STM32, Embedded C/C++
+- UAV frame design (FPV, multirotor)
+- Sensors, ESCs, motors, power systems
+
+---
+
+## 🚀 Highlight Projects
+- STM32-based SBUS signal generator
+- Joystick → LoRa → Drone RC link
+- PX4 servo logic & control customization
+- ROS2 Cartographer SLAM with RPLidar
+
+---
+
+## 🛠 Tools & Hardware
+- Cube Orange / Pixhawk
+- Mission Planner / QGroundControl
+- SolidWorks (UAV frame design)
+- Oscilloscope, logic analyzer
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/utpal-kant-43664b176
+- Achievement:https://drive.google.com/drive/folders/1Fx-MRBfDRwr2TrSEenvSzMlfKRX9sIQF?usp=drive_link
